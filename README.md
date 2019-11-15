@@ -1,2 +1,2 @@
 # srd-hello-world
-Dash's Hello WOrld
+Dash's Hello World
